@@ -1,0 +1,11 @@
+Parol|100|10
+Waves|240|5
+Boom|150|6
+Mud|50|8
+Necro|10|70
+Comet|20|10
+Morbid|2|50
+Sapphire|150|20
+Mud|100|20
+Luna|150|5
+Xp|5|250
